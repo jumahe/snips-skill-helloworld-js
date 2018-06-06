@@ -2,15 +2,16 @@
   "name": "snips-skill-helloworld-js",
   "version": "1.0.0",
   "description": "",
-  "main": "action-hello.js",
+  "main": "action-change-light.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Lars Martin <lars.martin@smb-tec.com",
+  "author": "Ju MAHE",
   "license": "MIT",
   "dependencies": {
     "mqtt": "^2.18.0",
-    "request": "^2.85.0"
+    "request": "^2.85.0",
+    "rpi-gpio": "^1.0.0"
   },
   "repository": {
     "type": "git",
