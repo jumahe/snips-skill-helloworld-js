@@ -1,0 +1,19 @@
+{
+  "name": "snips-skill-helloworld-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "action-hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lars Martin <lars.martin@smb-tec.com",
+  "license": "MIT",
+  "dependencies": {
+    "mqtt": "^2.18.0",
+    "request": "^2.85.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jumahe/snips-skill-helloworld-js.git"
+  }
+}
